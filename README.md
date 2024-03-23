@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on areas that peaks my interest like software development,data science,machine learning<br>🤝  I’m currently learning new skills in software development<br>💬 ⚡ Fun fact : Ditch your stethoscope, a shrimp keeps its heart right in its head - talk about high blood pressure!
 
 
 ## 🌐 Socials:
